@@ -1,5 +1,7 @@
 {
   "name": "panorama_village_resort",
+  "author": "Pukar Upreti",
+  "description": "Panorama Village Resort Website",
   "version": "0.1.0",
   "private": true,
   "scripts": {
